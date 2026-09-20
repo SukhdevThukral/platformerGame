@@ -1258,7 +1258,7 @@ offset_left = 851.5
 offset_top = 209.0
 offset_right = 918.5
 offset_bottom = 232.0
-text = "hello sar"
+text = "YAY CONGRATULATIONS :D"
 
 [connection signal="body_entered" from="TileMapLayer/Area2D" to="TileMapLayer" method="_on_area_2d_body_entered"]
 [connection signal="body_exited" from="TileMapLayer/Area2D" to="TileMapLayer" method="_on_area_2d_body_exited"]
